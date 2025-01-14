@@ -27,3 +27,18 @@ An occupation is comprised of interconnected tasks, and it is these tasks, not o
 | 2022/aii.csv          | AII measures                                                              |
 | 2022/auto_augment.csv | Automation (aii) vs augmentation (aug) measures                           |
 | patent.sql            | Query to collect patent data from Google Patents Public Data on BigQuery. |
+
+### Citing Our Work
+
+```
+@article{septiandri2024potential,
+  title={The potential impact of AI innovations on US occupations},
+  author={Septiandri, Ali Akbar and Constantinides, Marios and Quercia, Daniele},
+  journal={PNAS nexus},
+  volume={3},
+  number={9},
+  pages={pgae320},
+  year={2024},
+  publisher={Oxford University Press US}
+}
+```
